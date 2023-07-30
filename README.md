@@ -1,2 +1,2 @@
 # PracticeRepo
-practice repository
+practice repository, for course work.
